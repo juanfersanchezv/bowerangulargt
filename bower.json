@@ -1,0 +1,21 @@
+{
+  "name": "bpg-gateway",
+  "version": "0.0.0",
+  "dependencies": {
+    "a0-angular-storage": "~0.0.12",
+    "angular": "~1.4.8",
+    "angular-animate": "~1.4.8",
+    "angular-aria": "~1.4.8",
+    "angular-jwt": "~0.0.9",
+    "angular-material-icons": "~0.6.0",
+    "angular-material": "#1.0.0-rc5",
+    "angular-ui-router": "~0.2.15",
+    "auth0-angular": "~4.0.5",
+    "fontawesome": "^4.4.0",
+    "lodash": "~3.10.1"
+  },
+  "devDependencies": {},
+  "resolutions": {
+    "angular": "~1.4.7"
+  }
+}
